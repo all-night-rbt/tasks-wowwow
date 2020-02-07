@@ -99,11 +99,4 @@ https://cyblog.biz/pro/taskchute2/index2.php
 - [tasks-wowwow.numbers](https://github.com/otr-zbnr/tasks-wowwow/raw/master/tasks-wowwow.numbers)
 
 ## お問い合わせ
-ご意見ご感想、フィードバックは[Issue](https://github.com/otr-zbnr/tasks-wowwow/issues)から、もしくは
-
-- ツイッター
-  - [@otr_zbnr](https://twitter.com/otr_zbnr)
-- WEBサイト
-  - [追風ジェットコースター](https://the-wind-rises.com/contact)
-  
-からどうぞ!
+ご意見ご感想、フィードバックは[Issue](https://github.com/otr-zbnr/tasks-wowwow/issues)からどうぞ!
